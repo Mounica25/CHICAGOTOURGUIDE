@@ -1,0 +1,101 @@
+<resources>
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">CHICAGO TOUR GUIDE</string>
+
+    <!-- Category name for Attractions [CHAR LIMIT=20] -->
+    <string name="category_attractions">Places</string>
+
+    <!-- Category name for Food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for Hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for Shopping [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <!-- Attractions Category-->
+    <string name="attractions_cloudGate">Cloud Gate</string>
+    <string name="attractions_cloudGate_description">Mirrored, bean-shaped sculpture </string>
+    <string name="attractions_sheddAquarium">Shedd Aquarium</string>
+    <string name="attractions_sheddAquarium_description">Aquatic creatures from around the world</string>
+    <string name="attractions_skyDeck">Skydeck Chicago</string>
+    <string name="attractions_skyDeck_description">Panoramic views from 1353 feet above</string>
+    <string name="attractions_buckingham">Buckingham Fountain</string>
+    <string name="attractions_buckingham_description">Elaborate rococo landmark from 1927</string>
+    <string name="attractions_alderPlanetarium">Alder Planetarium</string>
+    <string name="attractions_alderPlanetarium_description">Museum with high-tech exhibits &amp; shows</string>
+    <string name="attractions_artInstitute">Art Institute of Chicago</string>
+    <string name="attractions_artInstitute_description">Jewelry, decor &amp; books inspired by art</string>
+    <string name="attractions_fieldMuseum">Field Museum of Natural History</string>
+    <string name="attractions_fieldMuseum_description">State-of-the-art science museum</string>
+    <string name="attractions_riverWalk">Chicago Riverwalk</string>
+    <string name="attractions_riverWalk_description">Scenic walkway along the Chicago River</string>
+    <string name="attractions_soldierField">Soldier Field</string>
+    <string name="attractions_soldierField_description">Historic football stadium</string>
+    <string name="attractions_360Chicago">360 Chicago</string>
+    <string name="attractions_360Chicago_description">Observatory on the 94th floor of the John Hancock Building with a tilting glass lookout 1000 ft. up.</string>
+
+    <!-- Food Category-->
+    <string name="food_Monteverde">Monteverde Restaurant &amp; Pastificio</string>
+    <string name="food_Monteverde_description">Italian Restaurant</string>
+    <string name="food_avec">Avec</string>
+    <string name="food_avec_description">Mediterranean Restaurant</string>
+    <string name="food_boka">Boka</string>
+    <string name="food_boka_description">American Restaurant</string>
+    <string name="food_Viaggio">Viaggio Restaurant Chicago</string>
+    <string name="food_Viaggio_description">Italian Restaurant</string>
+    <string name="food_smoque">Smoque BBQ</string>
+    <string name="food_smoque_description">Barbecue Restaurant</string>
+    <string name="food_berghOff">The Berghoff</string>
+    <string name="food_berghOff_description">German Restaurant</string>
+    <string name="food_italian">Italian Village</string>
+    <string name="food_italian_description">Northern Italian Restaurant</string>
+    <string name="food_gibsons">Gibsons Bar &amp; Steakhouse</string>
+    <string name="food_gibsons_description">Steak House</string>
+    <string name="food_Parachute">Parachute</string>
+    <string name="food_Parachute_description">Korean Restaurant</string>
+    <string name="food_fatRice">Fat Rice</string>
+    <string name="food_fatRice_description">Southeast Asian Restaurant</string>
+
+    <!-- Hotels Category-->
+    <string name="hotels_hilton">Hilton Chicago</string>
+    <string name="hotels_Swissotel">Swissotel Chicago</string>
+    <string name="hotels_Sheraton">Sheraton Grand Chicago</string>
+    <string name="hotels_Wyndham">Wyndham Grand Chicago Riverfront</string>
+    <string name="hotels_Sofitel">Sofitel Chicago Magnificent Mile</string>
+    <string name="hotels_Hyatt">Hyatt Centric Chicago Magnificent Mile"</string>
+    <string name="hotels_Silversmith">Silversmith Hotel Chicago Downtown</string>
+    <string name="hotels_Aloft">Aloft Chicago City Center</string>
+    <string name="hotels_Loews">Loews Chicago Hotel</string>
+    <string name="hotels_Ambassador">Ambassador Chicago</string>
+    <string name="hotels_4StarRating_description">4-star hotel</string>
+    <string name="hotels_3StarRating_description">3-star hotel</string>
+
+    <!-- Shopping Category-->
+    <string name="shopping_NEWCITY">NEWCITY</string>
+    <string name="shopping_NEWCITY_description">Shopping mall</string>
+    <string name="shopping_Greenheart">Greenheart Shop</string>
+    <string name="shopping_Greenheart_description">Boutique</string>
+    <string name="shopping_Luxury">Luxury Garage Sale</string>
+    <string name="shopping_Luxury_description">Consignment shop</string>
+    <string name="shopping_Bears">Bears Pro Shop</string>
+    <string name="shopping_Bears_description">Outdoor sports store</string>
+    <string name="shopping_DutyFree">Chicago Duty Free Shops</string>
+    <string name="shopping_DutyFree_description">Department store</string>
+    <string name="shopping_flowerShop">Wall\'s Flower Shop, Inc.</string>
+    <string name="shopping_flowerShop_description">Florist</string>
+    <string name="shopping_Popcorn">Garrett Popcorn Shops</string>
+    <string name="shopping_Popcorn_description">Popcorn Store</string>
+    <string name="shopping_SuesHallmark">Sue\'s Hallmark Shop</string>
+    <string name="shopping_SuesHallmark_description">Gift Shop</string>
+    <string name="shopping_BodyShop">The Body Shop</string>
+    <string name="shopping_BodyShop_description">Beauty supply store</string>
+    <string name="shopping_WineShop">Printers Row Wine Shop</string>
+    <string name="shopping_WineShop_description">Wine Store</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
